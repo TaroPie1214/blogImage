@@ -1,2 +1,2 @@
 # blogImage
-觉得多平台投稿的话还是用图床会舒服一点...
+Storing the images in my blog.
